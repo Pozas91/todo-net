@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pozas\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pozas\\.nuget\\packages"
+    ]
+  }
+}
